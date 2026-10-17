@@ -51,5 +51,4 @@ Created by [@githubusername] - feel free to contact me!
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
 
-
-Hello I'm updating the readme
+Updated
